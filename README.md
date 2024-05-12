@@ -12,6 +12,7 @@ KoCoNovel contains grammatically corrected versions of novels and annotations fo
 
 In the data folder, there are three folders:
 
+* text.txt: The text of the novel
 
 
 
