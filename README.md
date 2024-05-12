@@ -8,9 +8,24 @@ The corpus is drawn from the public domain texts on [Wikisource](https://ko.wiki
 KoCoNovel contains grammatically corrected versions of novels and annotations for character coreference in four types of options, along with speaker annotations for all direct quotations. The types of options are as follows:
 
 * **[Reader/Omniscient]** From the perspective of the omniscient author or the readers
-<img src="img/reader.png" alt="drawing" width="200"/>
+  
+|Phenomenon|Reader|Omniscient|
+|---|---|---|
+|"Oh, {Taehoon}! Would that really be okay?"
+It was the melodious voice of a woman.
+"If {Kyungsuk} likes it, how happy {I} would be."
+{The man}’s voice was clear, filled with passion. ... 
+What a weird scene! The lights were still on,
+but the bed was covered with what looked like
+love letters sent to students, all scattered around.
+In the middle of this mess, {Ms. B} sat up alone. ...
+With a face that looked kind of funny and
+desperate, {she} seemed to be waiting for a kiss.
+At the same time, {she} tried to sound like a man.]|[Taehoon, I, The man], [Kyungsuk], [Ms. B,
+she, she]|[Taehoon, I, The man, Kyungsuk, Ms. B,
+she, she]|
+
 * **[Separate/Overlapped]** How multiple entities are treated either as separate entities
-<img src="img/overlapped.png" alt="drawing" width="200"/>
 
 In the data folder, there are three folders:
 
