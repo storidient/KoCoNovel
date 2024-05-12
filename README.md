@@ -10,10 +10,6 @@ KoCoNovel contains grammatically corrected versions of novels and annotations fo
 - **[Reader/Omniscient]** From the perspective of the omniscient author or the readers
 - **[Separate/Overlapped]** How multiple entities are treated either as separate entities (e.g., [‘We’], [‘I’], [‘You’]) or as overlapped entities (e.g., [‘We’, ‘I’], [‘We’, ‘You’]) 
 
-In the data folder, there are three folders:
-
-* text.txt: The text of the novel
-
 
 
 
