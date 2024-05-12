@@ -7,8 +7,8 @@ The corpus is drawn from the public domain texts on [Wikisource](https://ko.wiki
 ## Data and Annotation
 KoCoNovel contains grammatically corrected versions of novels and annotations for character coreference in four types of options, along with speaker annotations for all direct quotations. The types of options are as follows:
 
-* [Reader/Omniscient] From the perspective of the omniscient author or the readers
-* [Separate/Overlapped] How multiple entities are treated either as separate entities
+* **[Reader/Omniscient]** From the perspective of the omniscient author or the readers
+* **[Separate/Overlapped]** How multiple entities are treated either as separate entities
 
 
 
