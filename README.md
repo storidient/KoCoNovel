@@ -1,6 +1,17 @@
 # KoCoNovel
-KoCoNovel is a character coreference dataset based on 50 modern and contemporary Korean novels. For more details, refer to the following publication:
+KoCoNovel is a character coreference dataset based on 50 modern and contemporary Korean novels.
+Please cite the following work if you use this dataset or the code associated with the paper:
+```
+@misc{kim2024koconovel,
+      title={KoCoNovel: Annotated Dataset of Character Coreference in Korean Novels}, 
+      author={Kyuhee Kim and Surin Lee and Sangah Lee},
+      year={2024},
+      eprint={2404.01140},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+# Corpus
+The corpus is drawn from the public domain texts on Project Gutenberg, and includes individual works of fiction (both novels and short stories) that include a mix of high literary style (e.g., Edith Wharton's *Age of Innocence*, James Joyce's *Ulysses*) and popular pulp fiction (e.g., H. Rider Haggard's *King Solomon's Mines*, Horatio Alger's *Ragged Dick*).  We select approximately 2,000 words from each of 100 texts; the total annotated dataset contains 210,532 tokens.
 
-* Kyuhee Kim, Surin Lee and Sangah Lee (2024), "[KoCoNovel: Annotated Dataset of Character Coreference in Korean Novels](https://arxiv.org/abs/2404.01140)", arXiv preprint.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">LitBank</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
