@@ -8,8 +8,7 @@ The corpus is drawn from the public domain texts on [Wikisource](https://ko.wiki
 KoCoNovel contains grammatically corrected versions of novels and annotations for character coreference in four types of options, along with speaker annotations for all direct quotations. The types of options are as follows:
 
 * **[Reader/Omniscient]** From the perspective of the omniscient author or the readers
-* **[Separate/Overlapped]** How multiple entities are treated either as separate entities (e.g., [‘We’], [‘I’], [‘You’]) or as overlapped entities
-(e.g., [‘We’, ‘I’], [‘We’, ‘You’]) 
+* **[Separate/Overlapped]** How multiple entities are treated either as separate entities (e.g., [‘We’], [‘I’], [‘You’]) or as overlapped entities (e.g., [‘We’, ‘I’], [‘We’, ‘You’]) 
 
 In the data folder, there are three folders:
 
