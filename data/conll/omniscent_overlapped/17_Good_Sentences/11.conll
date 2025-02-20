@@ -1,0 +1,116 @@
+#begin document (17); part 11
+17   11    0     "효도?   -   -   -   -   -   speaker_HS   *        -
+17   11    1      부모를   -   -   -   -   -   speaker_HS   *      (0)
+17   11    2       죽인   -   -   -   -   -   speaker_HS   *        -
+17   11    3       자가   -   -   -   -   -   speaker_HS   *        -
+17   11    4      효도?   -   -   -   -   -   speaker_HS   *        -
+17   11    5        네   -   -   -   -   -   speaker_HS   *      (1)
+17   11    6      말로는   -   -   -   -   -   speaker_HS   *        -
+17   11    7     어머니를   -   -   -   -   -   speaker_HS   *      (0)
+17   11    8    괴로움에서   -   -   -   -   -   speaker_HS   *        -
+17   11    9      건지려   -   -   -   -   -   speaker_HS   *        -
+17   11   10      하였다   -   -   -   -   -   speaker_HS   *        -
+17   11   11      하나,   -   -   -   -   -   speaker_HS   *        -
+17   11   12        그   -   -   -   -   -   speaker_HS   *        -
+17   11   13      당시에   -   -   -   -   -   speaker_HS   *        -
+17   11   14        네   -   -   -   -   -   speaker_HS   *   (1)|(0
+17   11   15      어미는   -   -   -   -   -   speaker_HS   *       0)
+17   11   16       아무   -   -   -   -   -   speaker_HS   *        -
+17   11   17      고통도   -   -   -   -   -   speaker_HS   *        -
+17   11   18      모르고   -   -   -   -   -   speaker_HS   *        -
+17   11   19       있지   -   -   -   -   -   speaker_HS   *        -
+17   11   20     않았니?   -   -   -   -   -   speaker_HS   *        -
+17   11   21        그   -   -   -   -   -   speaker_HS   *       (0
+17   11   22      어미를   -   -   -   -   -   speaker_HS   *       0)
+17   11   23       죽인   -   -   -   -   -   speaker_HS   *        -
+17   11   24      것이,   -   -   -   -   -   speaker_HS   *        -
+17   11   25      여섯째   -   -   -   -   -   speaker_HS   *        -
+17   11   26      계명을   -   -   -   -   -   speaker_HS   *        -
+17   11   27      어기지   -   -   -   -   -   speaker_HS   *        -
+17   11   28   않았느냐?"   -   -   -   -   -   speaker_HS   *        -
+
+17   11   0   "그러나   -   -   -   -   -   speaker_A   *     -
+17   11   1    마음은   -   -   -   -   -   speaker_A   *     -
+17   11   2   어머님께   -   -   -   -   -   speaker_A   *   (0)
+17   11   3   효…."   -   -   -   -   -   speaker_A   *     -
+
+17   11   0    "마음?   -   -   -   -   -   speaker_HS   *   -
+17   11   1     마음만   -   -   -   -   -   speaker_HS   *   -
+17   11   2     좋으면   -   -   -   -   -   speaker_HS   *   -
+17   11   3     아무런   -   -   -   -   -   speaker_HS   *   -
+17   11   4      죄를   -   -   -   -   -   speaker_HS   *   -
+17   11   5   지을지라도   -   -   -   -   -   speaker_HS   *   -
+17   11   6    용서받을   -   -   -   -   -   speaker_HS   *   -
+17   11   7       줄   -   -   -   -   -   speaker_HS   *   -
+17   11   8   아느냐?"   -   -   -   -   -   speaker_HS   *   -
+
+17   11   0    "그렇습니다.   -   -   -   -   -   speaker_A   *     -
+17   11   1      당신께서는   -   -   -   -   -   speaker_A   *   (2)
+17   11   2        사람의   -   -   -   -   -   speaker_A   *     -
+17   11   3        마음을   -   -   -   -   -   speaker_A   *     -
+17   11   4        꿰뚫어   -   -   -   -   -   speaker_A   *     -
+17   11   5    들여다보시고,   -   -   -   -   -   speaker_A   *     -
+17   11   6        마음의   -   -   -   -   -   speaker_A   *     -
+17   11   7       죄악까지   -   -   -   -   -   speaker_A   *     -
+17   11   8   다스리시는…."   -   -   -   -   -   speaker_A   *     -
+
+17   11    0    "아니다,   -   -   -   -   -   speaker_HS   *     -
+17   11    1     아니야.   -   -   -   -   -   speaker_HS   *     -
+17   11    2       이말   -   -   -   -   -   speaker_HS   *     -
+17   11    3       저말   -   -   -   -   -   speaker_HS   *     -
+17   11    4        할   -   -   -   -   -   speaker_HS   *     -
+17   11    5        것   -   -   -   -   -   speaker_HS   *     -
+17   11    6      없이,   -   -   -   -   -   speaker_HS   *     -
+17   11    7        네   -   -   -   -   -   speaker_HS   *   (1)
+17   11    8       생에   -   -   -   -   -   speaker_HS   *     -
+17   11    9      가운데   -   -   -   -   -   speaker_HS   *     -
+17   11   10       그중   -   -   -   -   -   speaker_HS   *     -
+17   11   11      양심에   -   -   -   -   -   speaker_HS   *     -
+17   11   12     유쾌하던   -   -   -   -   -   speaker_HS   *     -
+17   11   13       일이   -   -   -   -   -   speaker_HS   *     -
+17   11   14      제5,   -   -   -   -   -   speaker_HS   *     -
+17   11   15      제6,   -   -   -   -   -   speaker_HS   *     -
+17   11   16      제9의   -   -   -   -   -   speaker_HS   *     -
+17   11   17      계명을   -   -   -   -   -   speaker_HS   *     -
+17   11   18       범한   -   -   -   -   -   speaker_HS   *     -
+17   11   19    것이니깐,   -   -   -   -   -   speaker_HS   *     -
+17   11   20       다른   -   -   -   -   -   speaker_HS   *     -
+17   11   21       것은   -   -   -   -   -   speaker_HS   *     -
+17   11   22      미루어   -   -   -   -   -   speaker_HS   *     -
+17   11   23        알   -   -   -   -   -   speaker_HS   *     -
+17   11   24       수가   -   -   -   -   -   speaker_HS   *     -
+17   11   25      있다.   -   -   -   -   -   speaker_HS   *     -
+17   11   26       야,   -   -   -   -   -   speaker_HS   *     -
+17   11   27        이   -   -   -   -   -   speaker_HS   *    (1
+17   11   28      사람을   -   -   -   -   -   speaker_HS   *    1)
+17   11   29     지옥으로   -   -   -   -   -   speaker_HS   *     -
+17   11   30   데려가라!"   -   -   -   -   -   speaker_HS   *     -
+
+17   11    0     "그러나   -   -   -   -   -   speaker_A   *   -
+17   11    1     세상에서   -   -   -   -   -   speaker_A   *   -
+17   11    2     그렇지,   -   -   -   -   -   speaker_A   *   -
+17   11    3      여기는   -   -   -   -   -   speaker_A   *   -
+17   11    4      명문과   -   -   -   -   -   speaker_A   *   -
+17   11    5       규율   -   -   -   -   -   speaker_A   *   -
+17   11    6      밖에,   -   -   -   -   -   speaker_A   *   -
+17   11    7       더욱   -   -   -   -   -   speaker_A   *   -
+17   11    8       긴한   -   -   -   -   -   speaker_A   *   -
+17   11    9       것이   -   -   -   -   -   speaker_A   *   -
+17   11   10       있지   -   -   -   -   -   speaker_A   *   -
+17   11   11   않습니까?"   -   -   -   -   -   speaker_A   *   -
+
+17   11   0     하나님은   -   -   -   -   -   -   *   (2)
+17   11   1       눈을   -   -   -   -   -   -   *     -
+17   11   2     내리뜨고   -   -   -   -   -   -   *     -
+17   11   3       조금   -   -   -   -   -   -   *     -
+17   11   4        전   -   -   -   -   -   -   *    (1
+17   11   5      주사의   -   -   -   -   -   -   *    1)
+17   11   6       혼을   -   -   -   -   -   -   *     -
+17   11   7   내려다보다가   -   -   -   -   -   -   *     -
+17   11   8   웃었습니다.   -   -   -   -   -   -   *     -
+
+17   11   0    "하하하,   -   -   -   -   -   speaker_HS   *   -
+17   11   1      여기도   -   -   -   -   -   speaker_HS   *   -
+17   11   2   법정이다."   -   -   -   -   -   speaker_HS   *   -
+#end document
+
