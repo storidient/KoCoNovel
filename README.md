@@ -1,6 +1,6 @@
 # KoCoNovel
 KoCoNovel is a character coreference dataset based on 50 modern and contemporary Korean novels. For more details, refer to our paper, "[KoCoNovel: Annotated Dataset of Character Coreference in Korean Novels](https://arxiv.org/abs/2404.01140)".
----
+
 ## Updates
 - [2025-02] We now provide the dataset in both CoNLL and JSONL formats for easier processing and integration.
 - [2025-02] Added speaker assignment annotations for all direct quotations in the dataset.
