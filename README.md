@@ -15,8 +15,9 @@ KoCoNovel contains grammatically corrected versions of novels and annotations fo
 - **[Reader/Omniscient]** From the perspective of the omniscient author or the readers
 - **[Separate/Overlapped]** How multiple entities are treated either as separate entities (e.g., [‘We’], [‘I’], [‘You’]) or as overlapped entities (e.g., [‘We’, ‘I’], [‘We’, ‘You’]) 
 
+## License
 
-
+This dataset is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Please cite the following work if you use this dataset:
 ```
